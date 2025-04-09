@@ -1,0 +1,7 @@
+{
+  "latest_version": "1.4",
+  "min_required_version": "1.0",
+  "release_date": "2025-04-09",
+  "release_notes": "- Fixed cookie extraction issues\n- Improved user interface\n- Added auto-save feature\n- Enhanced security measures\n- Performance optimizations",
+  "download_url": "https://example.com/fbcookie-1.3.apk"
+}
