@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.4",
-  "min_required_version": "1.3",
-  "release_date": "2025-04-27",
-  "release_notes": "- Dashboard added\\n- Auto direct to profile removed\\n- Analyze added\\n- Webview performance (low,balance,high)\\n- Ui/Ux fixed\\n- Bug fixes\\n\\nRecent Cookie is still fixing",
-  "download_url": "https://dropmb.com/s/lC69",
+  "latest_version": "1.5",
+  "min_required_version": "1.5",
+  "release_date": "2025-05-23",
+  "release_notes": "🎲 Dashboard Fixed\n✨ Improved UI/UX for all mobile devices screen size\n🐛 Bug fixed",
+  "download_url": "https://www.mediafire.com/file/7lq5mv1swn0a1t2/fbcookie-release.apk/file",
   "maintenance_mode": false,
   "maintenance_message": ""
 }
