@@ -3,7 +3,7 @@
   "min_required_version": "1.5",
   "release_date": "2025-05-23",
   "release_notes": "- Dashboard Removed\n- Support Multiple Login Profiles\n- New Profile Tab in User-Agent Setting\n- New Per-Site User-Agent(BETA)\n- Improved UI|UX\n- Reworked Handling Cookie\n- Improve Cache Handling\n- API Login reworked beta\n- A lot of bug fixed\nMore...",
-  "download_url": "https://www.mediafire.com/file/7lq5mv1swn0a1t2/fbcookie-release.apk/file",
+  "download_url": "https://github.com/Jubiar01/UpdaterFBCookie/raw/refs/heads/main/app-release.apk",
   "maintenance_mode": false,
   "maintenance_message": ""
 }
